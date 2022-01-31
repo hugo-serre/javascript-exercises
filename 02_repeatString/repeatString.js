@@ -1,6 +1,7 @@
 const repeatString = function() {
 
-    repeatString('hey', 3)
+    repeatString('hey', 3);
+
 
 };
 
