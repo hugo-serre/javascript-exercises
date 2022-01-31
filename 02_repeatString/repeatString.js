@@ -1,10 +1,6 @@
 const repeatString = function() {
 
-   
-
-    for (let text = 'hey'; text < 4; ) {
-        console.log(text)
-    }
+    repeatString('hey', 3);
 
 
 };
